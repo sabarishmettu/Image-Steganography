@@ -6,7 +6,7 @@ Type "pip install stegano" in CMD to install
 Use the code accordingly in file.
 
 After code successfully executed 
-it should look like this 
+it should look like below images
 
 ![01](https://user-images.githubusercontent.com/81503474/207658308-08607682-134b-462d-abc7-d2a05a4071e0.png)
 
