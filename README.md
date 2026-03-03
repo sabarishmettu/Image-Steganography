@@ -3,7 +3,7 @@
 > **"Hide your secrets in plain sight."**
 > A stunning, cyber-themed Least Significant Bit (LSB) image steganography tool built in Python.
 
-<video src="https://github.com/sabarishmettu/Image-Steganography/raw/main/STEGANOGRAPHY/Images/STEGANOGRAPHY_Video.mp4" controls="controls" muted="muted" width="100%"></video>
+https://github.com/sabarishmettu/Image-Steganography/blob/main/STEGANOGRAPHY/Images/STEGANOGRAPHY_Video.mp4
 
 ---
 
